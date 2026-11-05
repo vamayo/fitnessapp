@@ -1,0 +1,6 @@
+{
+  "name": "ApexLift - Gym Progress & Muscle Recovery Tracker",
+  "description": "Track progressive overload workouts with live rest timers, log daily nutrition macros, and visualize muscle fatigue with an interactive anatomical heatmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
